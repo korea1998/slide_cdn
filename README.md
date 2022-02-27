@@ -7,7 +7,6 @@
 1. swiper cdn 검색
 2. 오픈소스 가져오기
  
- <!-- Swiper -->
 <!DOCTYPE html>
 <html lang="en">
 
@@ -103,4 +102,4 @@
   </style>
 </body>
 
-</html>
+</html> 
