@@ -18,6 +18,17 @@
 
 <body>
   <!-- Swiper -->
+  <!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Swiper demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+</head>
+
+<body>
+  <!-- Swiper -->
   <div class="swiper">
     <div class="swiper-wrapper">
       <div class="swiper-slide">Slide 1</div>
@@ -78,7 +89,7 @@
     .swiper {
       width: 100%;
       height: 100%;
-    }
+    }s
 
     .swiper-slide {
       text-align: center;
